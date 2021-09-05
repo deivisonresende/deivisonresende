@@ -17,5 +17,5 @@
   "Serveless",		        
 ]
 ```
-- 📫 How to reach me ✉[Gmail](deivison4844@gmail.com), 👨🏾‍💼[LinkedIn](linkedin.com/in/deivison-resende-353775105/)
+- 📫 How to reach me ✉deivison4844@gmail.com, 👨🏾‍💼[LinkedIn](https://www.linkedin.com/in/deivison-resende-353775105/)
 
