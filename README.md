@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @deivisonresende
 - 👀 I’m interested in backend developement for web 
-- 🌱 I’m currently learning: ```
+- 🌱 I’m currently learning: 
+```
 [   
   "Rest API's node.js",
   { "Automated tests": ["Unitary", "Integration"] },
