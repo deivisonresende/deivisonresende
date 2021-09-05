@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deivisonresende
 - 👀 I’m interested in backend developement for web 
 - 🌱 I’m currently learning: 
-```
+```javascript
 [   
   "Rest API's node.js",
   { "Automated tests": ["Unitary", "Integration"] },
@@ -14,8 +14,8 @@
   "Basic Git",
   "Typescript",
   "Microservices",
-  "Serveless",
+  "Serveless",		        
 ]
 ```
-- 📫 How to reach me ✉ deivison4844@gmail.com, 👨🏾‍💼 linkedin.com/in/deivison-resende-353775105/
+- 📫 How to reach me ✉[Gmail](deivison4844@gmail.com), 👨🏾‍💼[LinkedIn](linkedin.com/in/deivison-resende-353775105/)
 
